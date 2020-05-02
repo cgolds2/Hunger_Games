@@ -1,6 +1,8 @@
 import os, random
 import shutil, errno
 from pathlib import Path
+import platform
+import subprocess
 
 def main():
 	script_path = os.path.dirname(os.path.realpath(__file__))
@@ -31,6 +33,9 @@ def main():
 			server_files + "/" + filename,
 			currently_playing + "/" + filename
 			)
+	if not platform.system() == 'Windows':
+		subprocess.call(currently_playing + "/start_server.sh", shell=True)
+
 
 
 
