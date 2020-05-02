@@ -1,0 +1,52 @@
+[21:03:44] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:03:44] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:03:44] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:03:44] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:03:44] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:03:48] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[21:03:48] [Server thread/INFO]: Loading properties
+[21:03:48] [Server thread/INFO]: Default game type: ADVENTURE
+[21:03:48] [Server thread/INFO]: Generating keypair
+[21:03:48] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:03:48] [Server thread/INFO]: Using default channel type
+[21:03:49] [Server thread/INFO]: Preparing level "SurvivalGames"
+[21:03:49] [Server thread/WARN]: Couldn't get pack info for: yg: 'pack.mcmeta' in ResourcePack './SurvivalGames/datapacks/RandomChests.zip'
+[21:03:49] [Server thread/INFO]: Reloading ResourceManager: Default, RandomChests
+[21:03:55] [Server thread/INFO]: Loaded 6 recipes
+[21:03:56] [Server thread/INFO]: Loaded 3 custom command functions
+[21:03:56] [Server thread/INFO]: Loaded 825 advancements
+[21:03:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:03:57] [Server thread/INFO]: Preparing spawn area: 0%
+[21:03:57] [Server thread/INFO]: Preparing spawn area: 0%
+[21:03:57] [Server thread/INFO]: Preparing spawn area: 0%
+[21:03:57] [Server thread/INFO]: Preparing spawn area: 20%
+[21:03:58] [Server thread/INFO]: Time elapsed: 1853 ms
+[21:03:58] [Server thread/INFO]: Done (8.942s)! For help, type "help"
+[21:03:58] [User Authenticator #1/INFO]: UUID of player lonk404 is 687c38ef-9096-4a8e-95de-f8715dbab0aa
+[21:03:58] [Server thread/INFO]: lonk404[/192.168.1.3:51209] logged in with entity id 3 at (-1990.405574966735, 52.0, -993.744397401575)
+[21:03:58] [Server thread/INFO]: lonk404 joined the game
+[21:04:05] [Server thread/INFO]: [lonk404: Executed 12 commands from function 'random_chests:start_game']
+[21:04:13] [User Authenticator #2/INFO]: UUID of player Dalaylan is 261afcbf-10d2-4d91-a0c0-786ae98d90de
+[21:04:13] [Server thread/INFO]: Dalaylan[/68.106.160.124:62624] logged in with entity id 6 at (-1992.5837221809356, 56.0, -982.1511440450805)
+[21:04:13] [Server thread/INFO]: Dalaylan joined the game
+[21:04:20] [Server thread/INFO]: [lonk404: Executed 12 commands from function 'random_chests:start_game']
+[21:04:30] [Server thread/INFO]: [lonk404: Set own game mode to Creative Mode]
+[21:04:50] [Server thread/INFO]: [lonk404: Executed 12 commands from function 'random_chests:start_game']
+[21:05:19] [Server thread/INFO]: [Dalaylan: Gave 64 [Firework Rocket] to Dalaylan]
+[21:05:41] [Server thread/INFO]: lonk404 lost connection: Disconnected
+[21:05:41] [Server thread/INFO]: lonk404 left the game
+[21:05:51] [Server thread/INFO]: Stopping the server
+[21:05:51] [Server thread/INFO]: Stopping server
+[21:05:51] [Server thread/INFO]: Saving players
+[21:05:51] [Server thread/INFO]: Dalaylan lost connection: Internal Exception: java.lang.StackOverflowError
+[21:05:51] [Server thread/INFO]: Dalaylan left the game
+[21:05:51] [Server thread/INFO]: Saving worlds
+[21:05:51] [Server thread/INFO]: Saving chunks for level 'SurvivalGames'/minecraft:the_end
+[21:05:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:05:51] [Server thread/INFO]: Saving chunks for level 'SurvivalGames'/minecraft:the_nether
+[21:05:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:05:51] [Server thread/INFO]: Saving chunks for level 'SurvivalGames'/minecraft:overworld
+[21:05:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (SurvivalGames): All chunks are saved
+[21:05:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:05:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:05:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (SurvivalGames): All chunks are saved
