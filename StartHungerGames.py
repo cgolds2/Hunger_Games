@@ -34,7 +34,7 @@ def main():
 			currently_playing + "/" + filename
 			)
 	if not platform.system() == 'Windows':
-		subprocess.call(currently_playing + "/start_server.sh", shell=True)
+		subprocess.call("cd " + currently_playing + " && " + "./start_server.sh", shell=True)
 
 
 
