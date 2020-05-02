@@ -1,5 +1,8 @@
 # Hunger_Games_Randomizer
 
+NOTE: I did not create the maps in the maps folde
+Most were downloaded from planet minecraft
+
 USAGE:
 1. Download zip
 2. Put any worlds you find into Maps
