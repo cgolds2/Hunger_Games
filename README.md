@@ -6,4 +6,7 @@ USAGE:
 3. Edit them how you want
 4. Rename the world to "SurvivalGames" <-- MUST DO
 5. Run the python script with Python3
-(note: the start script is for Unix only, have not made a .bat script for Windows yet)
+
+note: the start script is for Unix only, have not made a .bat script for Windows yet. 
+
+If you use windows, you need to manually start the jar
